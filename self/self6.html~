@@ -1,0 +1,13 @@
+<html>
+  <head>
+    <link rel="stylesheet" type="text/css" href="../cajita.css">
+    <style>
+      body {background-color: #b3fff0;}
+    </style>
+  </head>
+  <body>
+    <div class="pic">
+      <img src="self6.jpg" style="width:900px">
+    </div>
+  </body>
+</html>

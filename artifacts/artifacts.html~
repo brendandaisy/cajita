@@ -1,0 +1,18 @@
+<html>
+  <head>
+    <title>artifacts</title>
+    <link rel="stylesheet" type="text/css" href="../cajita.css">
+  </head>
+  <body>
+    <h1>artifacts</h1>
+    <a href="wall.html">wall.jpg</a>
+    <a href="eclipse.html">eclipse.jpg</a>
+    <a href="bees.html">bees.jpg</a>
+    <a href="mush.html">mush.jpg</a>
+    <br/>
+    <a href="bread.html">bread.jpg</a>
+    <a href="mythos.html">mythos.jpg</a>
+    <a href="beatrix.html">beatrix.jpg</a>
+    <a href="door.html">door.jpg</a>
+  </body>
+</html>

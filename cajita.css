@@ -1,0 +1,16 @@
+html, body {margin: 0; height: 100%; overflow: hidden}
+
+a {
+    font-size: large;
+}
+
+html {
+    display: table;
+    margin: auto;
+}
+
+body {
+    display: table-cell;
+    vertical-align: middle;
+    background-color: pink;
+}
